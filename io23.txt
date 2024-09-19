@@ -1,3 +1,4 @@
+
 // ================================================
 Number:      27
 First Name:  Андрій
@@ -11,4 +12,11 @@ Number:      28
 First Name:  Олег
 Last Name:   Шмуляр
 YouTubeLink: https://www.youtube.com/watch?v=-fZ_TcDspwc
+// ================================================
+
+// ================================================
+Number:      7
+First Name:  Vlad
+Last Name:   Gorbachov
+YouTubeLink: https://www.youtube.com/watch?v=O85OWBJ2ayo
 // ================================================
